@@ -26,4 +26,4 @@ explanation, despite available alternatives?
 - FDA Warning Letters corpus (N=50, 21 CFR 210/211)
 
 ## Reference
-Kim, S. (2026). Premature Accountability Convergence. SSRN.
+Kim, S. (2026). Premature Accountability Convergence. SSRN Preprint.
